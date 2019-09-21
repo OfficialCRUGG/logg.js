@@ -1,7 +1,7 @@
 {
   "name": "logg.js",
-  "version": "1.0.0",
-  "description": "A simple log utility with date, colored text and code module display",
+  "version": "1.0.1",
+  "description": "A simple log utility with date, colored text and code module display.",
   "main": "logg.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
