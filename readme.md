@@ -39,7 +39,4 @@ logg.debug("This is a test log!", "MODULE");
 You can use a module, to display from what part of the code the log message comes from.
 
 If your terminal supports colors, it should look like this:
-![Preview](preview)
-
-<!--- Image Asset Links --->
-[preview]: https://crugg.de/cdn/logg.js/assets/preview.png
+![Preview](https://crugg.de/cdn/logg.js/assets/preview.png)
