@@ -4,7 +4,7 @@ A simple log utility with date, colored text and code module display.
 ## Usage in Websites
 While I haven't tried it yet, you should also be able to use logg.js on any website.
 You can get the [latest release](https://github.com/OfficialCRUGG/logg.js/releases/latest) from GitHub or use JSDelivr
-```
+```html
 <!-- Best method, using the NPM Mirror -->
 <script src="https://cdn.jsdelivr.net/npm/logg.js@latest/logg.js"></script>
 
