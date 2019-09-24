@@ -1,4 +1,6 @@
 # logg.js
+[![NPM](https://nodei.co/npm/logg.js.png)](https://nodei.co/npm/logg.js/)
+
 A simple log utility with date, colored text and code module display.
 
 ## Usage in Websites
